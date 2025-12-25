@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,linux,ubuntu,terraform,gcp,kubernetes,docker,bash,git,githubactions,cmake,py,gherkin,c,rust,obsidian,pycharm,neovim,latex,raspberrypi,arduino,matlab&theme=light)](https://skillicons.dev)
+
 <!--
 **sed-i/sed-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
